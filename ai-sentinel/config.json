@@ -1,0 +1,22 @@
+{
+  "niche": "AI News & Tools",
+  "language": "ja",
+  "sources": [
+    {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/feed/"
+    },
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml"
+    }
+  ]
+}

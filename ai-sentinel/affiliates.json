@@ -1,0 +1,23 @@
+[
+  {
+    "id": "gemini-api",
+    "name": "Google AI Studio",
+    "url": "https://aistudio.google.com/",
+    "description": "最新のGeminiモデルを無料で試せる開発者向けプラットフォーム。APIを使って自分だけのAIアプリを構築しましょう。",
+    "category": "AI Development"
+  },
+  {
+    "id": "notion-ai",
+    "name": "Notion AI",
+    "url": "https://www.notion.so/product/ai",
+    "description": "ドキュメント作成やプロジェクト管理をAIが強力にサポート。文章の要約やドラフト作成を効率化します。",
+    "category": "Productivity"
+  },
+  {
+    "id": "conoha-ai-canvas",
+    "name": "ConoHa AI Canvas",
+    "url": "https://px.a8.net/svt/ejp?a8mat=4AZQGS+4VMW8I+50+7RU5R6",
+    "description": "ブラウザだけで誰でも簡単に本格的な高画質AI画像生成ができるサービス。面倒な環境構築やハイスペックPCは不要で、すぐに商用利用可能なイラストや写真を作り出せます。",
+    "category": "Design"
+  }
+]
